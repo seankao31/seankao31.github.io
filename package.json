@@ -1,8 +1,12 @@
 {
   "name": "personal_website",
+  "type": "module",
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "@tailwindcss/postcss": "^4.1.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
   },
   "scripts": {
     "build": "yarn exec eleventy"
