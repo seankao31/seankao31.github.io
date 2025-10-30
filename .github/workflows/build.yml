@@ -26,11 +26,11 @@ jobs:
 
       - name: Install dependencies & build
         run: |
-          yarn install --immutable
-          yarn run build
+          npm install
+          npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          publish_dir: ./_site
+          publish_dir: ./build
           github_token: ${{ secrets.GITHUB_TOKEN }}
