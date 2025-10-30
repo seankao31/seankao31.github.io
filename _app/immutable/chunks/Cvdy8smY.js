@@ -1,43 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="/favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-
-		
-		<link rel="modulepreload" href="./_app/immutable/entry/start.Cmr7oCgm.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BpEH2wA3.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/kwVl_-fd.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/DIeogL5L.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CKkqt2vc.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/D0iwhpLH.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/D8sG17KB.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CPstbR3Q.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.DhwwJnHa.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/C1FmrZbK.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/D8BKfByz.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/DixbI5FW.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/DXXKktUD.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Bg9kRutz.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/B2u3UwWL.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/C6R8wxgU.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BOSvnz_3.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/shKc_KID.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.BmEAcQol.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/9l8Gxslx.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Dq_mKe14.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CUa7DTEu.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/_Lx2TO9w.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/69_IOA4Y.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CWmzcjye.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CEMBYkX5.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BqtlTsuO.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/2.DmhwTAA2.js"><!--[--><link rel="stylesheet" href="/css/vars.css"> <link rel="stylesheet" href="/css/root.css"> <link rel="stylesheet" href="/css/fonts.css"> <link rel="stylesheet" href="/css/typography.css"> <link rel="stylesheet" href="/css/layout.css"> <link rel="stylesheet" href="/css/components.css"> <link rel="stylesheet" href="/css/header-and-footer.css"> <link rel="stylesheet" href="/css/forms.css"> <link rel="stylesheet" href="/css/animation.css"> <link rel="stylesheet" href="/css/utilities.css"> <link rel="stylesheet" href="/css/code.css"> <link rel="stylesheet" href="/css/prism.css"> <link rel="alternate" type="application/rss+xml" title="My Awesome Blog" href="http://example.com/api/rss.xml"><!--]--><!--[--><!--]--><title>My Awesome Blog</title>
-		<!-- You can add global <meta> tags here, but anything not global or dynamic should be a `<svelte:head>` tag on the proper page(s) instead. -->
-	</head>
-	<body>
-		<div id="svelte"><!--[--><!--[--><!----><div class="layout "><header><a class="skip-to-content-link" href="#main">Skip to main content</a> <a href="/" class="site-title">My Awesome Blog</a> <button aria-pressed="false" class="menu-button" tabindex="0"><span class="sr-only">Toggle hamburger menu</span> <!--[!--><svg viewBox="0 0 128 128" version="1.1" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g><rect x="0" y="12.48" width="128" height="18.688"></rect></g><g><rect x="0" y="96.832" width="128" height="18.688"></rect></g><g><rect x="0" y="54.656" width="128" height="18.688"></rect></g></svg><!--]--></button><!----> <nav class="main-nav "><ul><!--[--><li><a href="/blog" aria-current="false"><!---->Blog<!----></a></li><li><a href="/about" aria-current="false"><!---->About<!----></a></li><li><a href="/contact" aria-current="false"><!---->Contact<!----></a></li><!--]--></ul><!----> <button aria-pressed="false" class="menu-button" tabindex="-1"><span class="sr-only">Toggle hamburger menu</span> <!--[--><svg viewBox="0 0 128 128" version="1.1" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><path d="M64,48.496l-48.496,-48.496l-15.504,15.504l48.496,48.496l-48.496,48.496l15.504,15.504l48.496,-48.496l48.496,48.496l15.504,-15.504l-48.496,-48.496l48.496,-48.496l-15.504,-15.504l-48.496,48.496Z"></path></svg><!--]--></button><!----></nav><!----></header><!----> <!----><main id="main" tabindex="-1"><!----><!----><h1 id="sveltekit-static-blog-starter"><a aria-hidden="true" tabindex="-1" href="#sveltekit-static-blog-starter"><span class="icon icon-link"></span></a>SvelteKit static blog starter</h1> <p>This starter contains everything you need to get up and running with <a href="https://kit.svelte.dev/" rel="nofollow">SvelteKit</a> as a static site generator for your
+import"./Bg9kRutz.js";import"./69_IOA4Y.js";import{s as i,g as c,i as a,r as s,n as h}from"./kwVl_-fd.js";import{a as p,t as u}from"./DXXKktUD.js";import{h as n}from"./BYXFwn-o.js";var g=u(`<h1 id="sveltekit-static-blog-starter"><a aria-hidden="true" tabindex="-1" href="#sveltekit-static-blog-starter"><span class="icon icon-link"></span></a>SvelteKit static blog starter</h1> <p>This starter contains everything you need to get up and running with <a href="https://kit.svelte.dev/" rel="nofollow">SvelteKit</a> as a static site generator for your
 Markdown (and Svelte)-powered blog. <a href="https://sveltekit-static-starter.netlify.app/" rel="nofollow">Check out the demo here</a>, or
 view the <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="nofollow">GitHub repo here</a>.</p> <h2 id="features"><a aria-hidden="true" tabindex="-1" href="#features"><span class="icon icon-link"></span></a>Features</h2> <ul><li>🎉 <strong>Fully up-to-date with SvelteKit 2 and Svelte 5!</strong></li> <li>⚡️ <strong>Super fast static site generation with hydration</strong>. Every route is
 compiled down to static HTML and routed with (optional) JavaScript, thanks to
@@ -50,10 +11,7 @@ from some optimization</em>); just update <code>src/lib/config.js</code></li> <l
 Tailwind instead? Just install them!
 (<a href="https://tailwindcss.com/docs/guides/sveltekit" rel="nofollow">Directions for Tailwind can be found here</a>.)
 Prefer to write your own? Delete <code>static/css</code> and add your own links in <code>+layout.svelte</code>.</li> <li>ℹ️ <strong>Fonts included</strong>. (No more built-in Google tracking.)</li></ul> <h2 id="quick-start"><a aria-hidden="true" tabindex="-1" href="#quick-start"><span class="icon icon-link"></span></a>Quick Start</h2> <p>Clone or download <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="nofollow">this repo</a>, then
-install the dependencies and run the dev server:</p> <pre class="language-undefined"><!----><code class="language-undefined">npx degit https://github.com/josh-collinsworth/sveltekit-blog-starter my-sveltekit-blog
-cd my-sveltekit-blog
-npm install
-npm run dev -- --open</code><!----></pre> <p>That should get a dev server up and running (assuming you have npm and Node
+install the dependencies and run the dev server:</p> <pre class="language-undefined"><!></pre> <p>That should get a dev server up and running (assuming you have npm and Node
 installed already). Any saved changes to components and styles should
 auto-refresh blazingly fast.</p> <p>Now all you need to do is:</p> <ul><li>Update the <code>src/lib/config.js</code> file</li> <li>Drop your Markdown posts into <code>src/lib/posts</code></li> <li>Optionally, customize the styles in <code>static/css</code></li></ul> <p>GLHF! Details below. 👇</p> <p>(<em>Feel free to <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter/issues/new" rel="nofollow">open an issue</a> if you come across one.</em>)</p> <h2 id="customization"><a aria-hidden="true" tabindex="-1" href="#customization"><span class="icon icon-link"></span></a>Customization</h2> <p>Be sure to update <code>src/lib/config.js</code> to reflect your site’s domain,
 preferences, etc. This is also where the nav menu can be updated.</p> <p><strong>It’s very important to update this file with the specific details of your
@@ -76,7 +34,7 @@ pagination right away unless you either change <code>postsPerPage</code> to a ve
 number, or add several more Markdown files to the <code>src/lib/posts</code> folder.</p> <p><strong>Note:</strong> both the normal <code>/blog</code> feed <em>and</em> the category feeds at <code>/category/[category]</code> are automatically paginated.</p> <h3 id="rss"><a aria-hidden="true" tabindex="-1" href="#rss"><span class="icon icon-link"></span></a>RSS</h3> <p>This starter also includes a basic RSS feed. It’s very minimal, so you may want
 to tweak it depending on your XML feed needs, but it <em>does</em> work out of the box.</p> <p>Update the <code>config</code> details in <code>src/lib/config.js</code> to get your site’s unique
 info correct. (You could also pull this info in other places, or add to it, to
-keep things consistent, but that’s up to you.)</p> <h2 id="css"><a aria-hidden="true" tabindex="-1" href="#css"><span class="icon icon-link"></span></a>CSS</h2> <p><strong>By default, all CSS in this starter is global vanilla CSS.</strong> It’s located in <code>static/css</code> (linked from <code>+layout.svelte</code>).</p> <p>I didn’t use component <code>&lt;style></code> blocks because, while component-based scoped
+keep things consistent, but that’s up to you.)</p> <h2 id="css"><a aria-hidden="true" tabindex="-1" href="#css"><span class="icon icon-link"></span></a>CSS</h2> <p><strong>By default, all CSS in this starter is global vanilla CSS.</strong> It’s located in <code>static/css</code> (linked from <code>+layout.svelte</code>).</p> <p>I didn’t use component <code>&lt;style&gt;</code> blocks because, while component-based scoped
 CSS is very nice, it can also be hard to track down and update. Since this is a
 starter, I felt it was best to keep all the styles together in one place, and
 let you, the author, decide whether you want to keep them as they are, move to
@@ -97,7 +55,7 @@ locations), and pagination (plus a couple that are actually just SVG icons).</p>
 fun!); I just didn’t want to push authors too far in any component direction
 right off the bat.</p> <h2 id="static-files"><a aria-hidden="true" tabindex="-1" href="#static-files"><span class="icon icon-link"></span></a>Static files</h2> <p>Things that should just live in the site root of the finished site (like a <code>robots.txt</code> file, favicon, or maybe images) should go in the <code>static</code> folder.
 If you link to them, use the root path (e.g., <code>/images/my.png</code>, not <code>../static/images/my.png</code>).</p> <p>(Placeholder images credit <a href="https://unsplash.com" rel="nofollow">Unsplash</a>; photographer names
-are in the file names.)</p> <h2 id="building-deploying-and-hosting"><a aria-hidden="true" tabindex="-1" href="#building-deploying-and-hosting"><span class="icon icon-link"></span></a>Building, deploying and hosting</h2> <p>The build command (from package.json) is simply:</p> <pre class="language-undefined"><!----><code class="language-undefined">npm run build</code><!----></pre> <p>You can use that as your build command if your repo is connected to a host like
+are in the file names.)</p> <h2 id="building-deploying-and-hosting"><a aria-hidden="true" tabindex="-1" href="#building-deploying-and-hosting"><span class="icon icon-link"></span></a>Building, deploying and hosting</h2> <p>The build command (from package.json) is simply:</p> <pre class="language-undefined"><!></pre> <p>You can use that as your build command if your repo is connected to a host like
 Netlify or Vercel, which automatically deploys.</p> <p>Or, if you prefer, you can run <code>npm run build</code> locally to generate the static
 files. That will result in a <code>build</code> folder you can upload anywhere a static
 site can be hosted.</p> <p>Use <code>npm run preview</code> <em>after</em> a build to preview the built site locally.</p> <h2 id="adding-tailwind"><a aria-hidden="true" tabindex="-1" href="#adding-tailwind"><span class="icon icon-link"></span></a>Adding Tailwind</h2> <p><a href="https://tailwindcss.com/docs/guides/sveltekit" rel="nofollow">The directions for adding Tailwind can be found in the Tailwind docs, here</a>.</p> <p>The only thing worth noting is: this starter’s existing CSS files won’t be in
@@ -107,29 +65,7 @@ even if you <em>do</em> choose to keep this starter’s default styling, your si
 not look the same after installing Tailwind. (Headings, for example, just look
 like plain text when using Tailwind, unless classes are applied.)</p> <h2 id="further-documentation"><a aria-hidden="true" tabindex="-1" href="#further-documentation"><span class="icon icon-link"></span></a>Further documentation</h2> <p>I assume at least a little bit of knowledge of SvelteKit and/or similar static
 site generators here, but be sure to read <a href="https://kit.svelte.dev/docs" rel="nofollow">the SvelteKit docs</a> for more info.</p> <h2 id="contributing"><a aria-hidden="true" tabindex="-1" href="#contributing"><span class="icon icon-link"></span></a>Contributing</h2> <p>I’ve tried my best to make sure this starter is up to date with the latest
-SvelteKit, but I’m sure improvements can be made. Feel free to <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="nofollow">visit the repo</a> and submit a pull request, or <a href="https://joshcollinsworth.com/contact" rel="nofollow">contact me directly</a>.</p><!----><!----><!----></main><!----> <footer><nav><ul><li><a href="/api/rss.xml" data-sveltekit-reload="">RSS</a></li> <li><a href="/">Home</a></li></ul></nav> <nav><ul><!--[--><li><a href="/blog" aria-current="false"><!---->Blog<!----></a></li><li><a href="/about" aria-current="false"><!---->About<!----></a></li><li><a href="/contact" aria-current="false"><!---->Contact<!----></a></li><!--]--></ul><!----></nav> <p>©2025 - find and change this text in src/lib/config.js</p></footer><!----></div><!----><!--]--> <!--[!--><!--]--><!--]-->
-			
-			<script>
-				{
-					__sveltekit_vxxjdi = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					Promise.all([
-						import("./_app/immutable/entry/start.Cmr7oCgm.js"),
-						import("./_app/immutable/entry/app.DhwwJnHa.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 2],
-							data: [null,null],
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+SvelteKit, but I’m sure improvements can be made. Feel free to <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="nofollow">visit the repo</a> and submit a pull request, or <a href="https://joshcollinsworth.com/contact" rel="nofollow">contact me directly</a>.</p>`,1);function v(r){var t=g(),e=i(c(t),12),l=a(e);n(l,()=>`<code class="language-undefined">npx degit https://github.com/josh-collinsworth/sveltekit-blog-starter my-sveltekit-blog
+cd my-sveltekit-blog
+npm install
+npm run dev -- --open</code>`),s(e);var o=i(e,84),d=a(o);n(d,()=>'<code class="language-undefined">npm run build</code>'),s(o),h(22),p(r,t)}export{v as default};

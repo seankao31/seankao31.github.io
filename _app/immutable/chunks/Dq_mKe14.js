@@ -1,0 +1,1 @@
+import{o as c,q as i,v as _,b as h,h as r,e as d,p as k,d as u,f as v,U as y}from"./kwVl_-fd.js";function l(f,n,o){r&&d();var e=f,s=y,a,t=c()?i:_;h(()=>{t(s,s=n())&&(a&&k(a),a=u(()=>o(e)))}),r&&(e=v)}export{l as k};
