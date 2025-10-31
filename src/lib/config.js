@@ -22,11 +22,11 @@ export const navItems = [
 	},
 	{
 		title: 'Now',
-		routes: '/now'
+		route: '/now'
 	},
 	{
 		title: 'Reading',
-		routes: '/reading'
+		route: '/reading'
 	},
 	{
 		title: 'About',
