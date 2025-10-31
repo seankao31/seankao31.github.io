@@ -1,11 +1,11 @@
-<!-- This file handles any /blog/page/x route for pagination -->
+<!-- Renders posts listed by category -->
 <script>
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
-  import { postsPerPage, siteDescription } from '$lib/config'
+	import { siteDescription } from '$lib/config'
 
 	let { data } = $props();
-	const { page, totalPosts, posts } = data
+  const { page, totalPosts, posts } = data
 
 	let lowerBound = $derived((page * postsPerPage) - (postsPerPage - 1) || 1)
 	let upperBound = $derived(Math.min(page * postsPerPage, totalPosts))
@@ -13,8 +13,8 @@
 
 
 <svelte:head>
-	<title>Blog - page {page}</title>
-	<meta data-key="description" name="description" content={siteDescription} />
+	<title>Blog category - page {page}</title>
+	<meta data-key="description" name={siteDescription}>
 </svelte:head>
 
 
@@ -31,5 +31,5 @@
 
 	<p>Sorry, no posts to show here.</p>
 
-	<a href="/blog">Back to blog</a>
+	<a href="/articles">Back to blog</a>
 {/if}

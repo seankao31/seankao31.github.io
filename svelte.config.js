@@ -14,12 +14,12 @@ const config = {
 			entries: [
 				'*',
 				'/api/posts/page/*',
-				'/blog/category/*/page/',
-				'/blog/category/*/page/*',
-				'/blog/category/page/',
-				'/blog/category/page/*',
-				'/blog/page/',
-				'/blog/page/*'
+				'/articles/category/*/page/',
+				'/articles/category/*/page/*',
+				'/articles/category/page/',
+				'/articles/category/page/*',
+				'/articles/page/',
+				'/articles/page/*'
 			]
 		}
 	},
