@@ -18,7 +18,7 @@
 </svelte:head>
 
 
-<h1>Blog category: {category}</h1>
+<h1>Articles category: {category}</h1>
 
 {#if posts.length}
 	<PostsList posts={posts} />
@@ -26,5 +26,5 @@
 {:else}
 	<p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "{category}".</p>
 
-	<p><a href="/articles">Back to blog</a></p>
+	<p><a href="/articles">Back to articles</a></p>
 {/if}

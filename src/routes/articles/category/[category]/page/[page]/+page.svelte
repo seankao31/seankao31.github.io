@@ -13,7 +13,7 @@
 
 
 <svelte:head>
-	<title>Blog category {category} - page {page}</title>
+	<title>Articles category {category} - page {page}</title>
 	<meta data-key="description" name={siteDescription}>
 </svelte:head>
 
@@ -35,5 +35,5 @@
 
 	<p>Sorry, no posts to show here.</p>
 
-	<a href="/articles">Back to blog</a>
+	<a href="/articles">Back to articles</a>
 {/if}
