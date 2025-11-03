@@ -1,14 +1,13 @@
 ---
-title: 'Automatic heading links in mdsvex'
-date: '2023-10-26'
-updated: '2023-10-26'
+title: 'Sample Post'
+date: '2025-11-03'
+updated: '2025-11-03'
 categories:
-  - 'sveltekit'
-  - 'markdown'
+  - sample category
 coverImage:
-coverWidth: 16
-coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+coverWidth:
+coverHeight:
+excerpt: Sample post.
 ---
 
 Here are some headings:

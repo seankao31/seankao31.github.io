@@ -8,6 +8,7 @@
 		<li>
 			<article>
 				<a href="/articles/{post.slug}">
+					{#if post.coverImage}
 					<img
 					src={post.coverImage}
 					alt=""
@@ -15,6 +16,7 @@
 					height={post.coverHeight}
 					style="ratio: {post.coverWidth} / {post.coverHeight}"
 					/>
+					{/if}
 					<h2>
 						{post.title}
 					</h2>

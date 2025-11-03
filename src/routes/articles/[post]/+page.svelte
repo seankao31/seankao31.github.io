@@ -23,6 +23,7 @@
 </svelte:head>
 
 <article class="post">
+	{#if coverImage}
 	<!-- You might want to add an alt frontmatter attribute. If not, leaving alt blank here works, too. -->
 	<img
 		class="cover-image"
@@ -32,6 +33,7 @@
 		width={coverWidth}
 		height={coverHeight}
 	/>
+	{/if}
 
 	<h1>{title}</h1>
 
