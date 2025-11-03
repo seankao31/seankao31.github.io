@@ -11,9 +11,9 @@ _Updated: 2025-11-03 in Taipei, Taiwan_
 
 ---
 
-I’m still figuring things out. I quit my job in May 2025 and decided I’m done with full-time work. From now on, I want to work for myself. I’ve got a few ideas of what to try, but no solid plan yet.
+I’m still figuring things out. I quit my job in May 2025 and decided I’m done with full-time work. I’ve got a few ideas of what to try to work for myself, but no solid plan yet.
 
-###### Building [this website](https://www.yhkao.com)
+###### Building [this very website](https://www.yhkao.com)
 
 I said “building,” but I’ve accepted that I probably won’t settle on a design anytime soon. For now, I’m focusing on the content, because that’s what really matters.
 
