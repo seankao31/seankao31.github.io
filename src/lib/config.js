@@ -5,7 +5,7 @@
  * PLEASE BE SURE TO UPDATE THEM ALL! Thank you!
  **/
 
-export const siteTitle = 'Yshan';
+export const siteTitle = "Yshan's dev corner";
 export const siteDescription = ''; // TODO
 export const siteURL = 'yhkao.com';
 export const siteLink = 'https://www.yhkao.com';
