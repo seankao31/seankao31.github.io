@@ -1,0 +1,1 @@
+const t="Yshan",s="",e="yhkao.com",o="Yshan",a=10,i=[{title:"Articles",route:"/articles"},{title:"Now",route:"/now"},{title:"Reading",route:"/reading"},{title:"About",route:"/about"}];export{t as a,o as b,e as c,i as n,a as p,s};

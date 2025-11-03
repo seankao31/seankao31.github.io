@@ -1,0 +1,1 @@
+import"./Bg9kRutz.js";import"./69_IOA4Y.js";import{a as r,t as e}from"./hHYm2fQw.js";var s=e('<p>Website modified from <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="nofollow">https://github.com/josh-collinsworth/sveltekit-blog-starter</a></p>');function p(t){var o=s();r(t,o)}export{p as default};

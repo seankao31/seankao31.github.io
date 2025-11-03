@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>My Awesome Blog</title>
-<description>Built with the SvelteKit Static Blog Starter</description>
-<link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
-<atom:link href="https://example.com/api/rss.xml" rel="self" type="application/rss+xml"/>
+<title>Yshan</title>
+<description></description>
+<link>https://www.yhkao.com</link>
+<atom:link href="https://yhkao.com/api/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
-<guid isPermaLink="true">https://example.com/blog/heading-links-example</guid>
+<guid isPermaLink="true">https://yhkao.com/articles/sample_post</guid>
 <title>Automatic heading links in mdsvex</title>
-<link>https://example.com/blog/heading-links-example</link>
+<link>https://yhkao.com/articles/sample_post</link>
 <description>Check out how heading links work with this starter in this post.</description>
 <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/mdsvex-component-example</guid>
-<title>A Markdown post with a Svelte component</title>
-<link>https://example.com/blog/mdsvex-component-example</link>
-<description>This post demonstrates how to include a Svelte component in a Markdown post.</description>
-<pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/syntax-highlighting-example</guid>
-<title>Syntax highlighting with mdsvex</title>
-<link>https://example.com/blog/syntax-highlighting-example</link>
-<description>This post shows you how syntax highlighting works here.</description>
-<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
