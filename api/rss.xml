@@ -7,10 +7,10 @@
 <atom:link href="https://yhkao.com/api/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
 <guid isPermaLink="true">https://yhkao.com/articles/sample_post</guid>
-<title>Automatic heading links in mdsvex</title>
+<title>Sample Post</title>
 <link>https://yhkao.com/articles/sample_post</link>
-<description>Check out how heading links work with this starter in this post.</description>
-<pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+<description>Sample post.</description>
+<pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
