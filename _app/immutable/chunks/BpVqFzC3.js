@@ -1,1 +1,0 @@
-import{n as c,E as s,o as i,p as r,q as p,t as h,v as d}from"./DvROm0cg.js";function u(t,o,f){r&&p();var e=t,a,n;c(()=>{a!==(a=o())&&(n&&(h(n),n=null),a&&(n=i(()=>f(e,a))))},s),r&&(e=d)}export{u as c};
