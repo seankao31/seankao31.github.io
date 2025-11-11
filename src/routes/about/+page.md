@@ -35,4 +35,4 @@ I'm not even sure if this section is warranted.
 
 ## About the Site
 
-WIP
+Website modified from https://github.com/josh-collinsworth/sveltekit-blog-starter
