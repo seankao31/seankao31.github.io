@@ -35,4 +35,8 @@ I'm not even sure if this section is warranted.
 
 ## About the Site
 
-Website modified from https://github.com/josh-collinsworth/sveltekit-blog-starter
+This site is built on top of [josh-collinsworth’s SvelteKit blog starter](https://github.com/josh-collinsworth/sveltekit-blog-starter).
+
+And yes—if you hate the hamburger menu animation on mobile, I’m right there with you. It’s not perfect, but it gets the job done. :/
+
+I’d love to give the whole thing a proper design overhaul someday, but that’s not exactly at the top of my priority list right now.
