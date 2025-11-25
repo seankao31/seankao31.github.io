@@ -7,6 +7,11 @@
 </svelte:head>
 
 <article>
-	<p>Work in Progress...</p>
-	<p>How about checking out <a href="/about">About</a> and <a href="/now">Now</a>?</p>
+	<p>Home page is still under construction...</p>
+	<p>How about checking out:</p>
+	<ul>
+		<li><a href="/about">About</a></li>
+		<li><a href="/now">Now</a></li>
+		<li><a href="/reading">Reading</a></li>
+	</ul>
 </article>
