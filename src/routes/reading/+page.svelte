@@ -5,6 +5,13 @@
     function getStars(rating) {
       return "★".repeat(rating) + "☆".repeat(10 - rating);
     }
+
+    function getAuthor(author) {
+        if (Array.isArray(author)) {
+            return author.join(', ')
+        }
+        return author
+    }
 </script>
 
 
@@ -23,11 +30,11 @@
 <div class="reading-container">
     <div class="book-list">
         {#each data.books as book}
+            {@const author = getAuthor(book.author)}
             <div class="book-row">
                 <div class="cell title">{book.title}</div>
                 <!-- Add title in case it's truncated -->
-                <!-- TODO: author list -->
-                <div class="cell author" title={book.author}>{book.author}</div>
+                <div class="cell author" title={author}>{author}</div>
                 <div class="cell rating" aria-label="{book.rating} out of 10 stars">
                     {getStars(book.rating)}
                 </div>
