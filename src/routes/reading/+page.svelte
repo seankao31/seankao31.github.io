@@ -15,8 +15,9 @@
 <h1>Reading</h1>
 
 <article class="reading-prose">
-    <p>This page collects all the nonfiction books I’ve read, along with the ratings I’d give them. I’d love to remember every single title and retroactively attach a “finished on” date, but after over a decade of active reading... that’s probably impossible.</p>
-    <p>A note on my ratings: I use a 1-10 scale, but they reflect how much I personally enjoyed the book, not how “objectively good” I think it is. The scale is closer to <a href="https://www.japantravelpros.com/blog/star-ratings-reviews-japan-is-different">Japanese restaurant reviews</a> than Western Goodreads-style ratings. A 5 or 6 means good, 7 or 8 means great, and anything above 8 is genuinely exceptional.</p>
+    <p>Here, I list the nonfiction books I still keep on my shelf — or remember well enough to include — along with the ratings I’d give them. It’s not a complete archive of everything I’ve ever read; it’s simply a record of the books that stayed with me. I’d love to remember every single title and retroactively attach a “finished on” date, but after nearly a decade of active reading... that’s probably impossible.</p>
+    <p>A note on my ratings: they’re scored on a 1–10 scale and reflect how much a book personally mattered to me and how much I enjoyed it — not how “objectively good” I think it is. A book can be excellent at what it sets out to do yet still receive a modest score if it didn’t leave a lasting impact on my worldview. Conversely, some books are mind-shifting and deeply impactful even if the prose is clumsy or downright painful to get through — and in those cases, I tend to rate them higher than their writing alone deserves. Practical or highly specific books can be useful in the moment, but unless they meaningfully change how I think or who I am, their scores simply land lower within this system.</p>
+    <p>The scale is closer to <a href="https://www.japantravelpros.com/blog/star-ratings-reviews-japan-is-different">Japanese restaurant reviews</a> than Western Goodreads-style ones: a 5 or 6 means good (like a typical 4.5/5), 7 or 8 means great, and anything above 8 is truly exceptional.</p>
 </article>
   
 <div class="reading-container">
@@ -25,6 +26,7 @@
             <div class="book-row">
                 <div class="cell title">{book.title}</div>
                 <!-- Add title in case it's truncated -->
+                <!-- TODO: author list -->
                 <div class="cell author" title={book.author}>{book.author}</div>
                 <div class="cell rating" aria-label="{book.rating} out of 10 stars">
                     {getStars(book.rating)}

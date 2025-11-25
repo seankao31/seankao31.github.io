@@ -1,17 +1,652 @@
 [
 	{
-		"title": "Sample Book",
-		"author": "Sample Author",
+		"title": "The Pathless Path",
+		"subtitle": "Imagining a New Story For Work and Life",
+		"author": "Paul Millerd",
+		"goodreads": "https://www.goodreads.com/book/show/60151185",
+		"genre": ["Self Help", "Personal Development", "Philosophy"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Get Better at Anything",
+		"subtitle": "12 Maxims for Mastery",
+		"author": "Scott H. Young",
+		"goodreads": "https://www.goodreads.com/book/show/195853498",
+		"genre": ["Self Help", "Education", "Productivity", "Personal Development"],
+		"language": "English",
+		"rating": 3
+	},
+	{
+		"title": "How to Retire",
+		"subtitle": "20 Lessons For a Happy, Successful, and Wealthy Retirement",
+		"author": "Christine Benz",
+		"goodreads": "https://www.goodreads.com/book/show/202922751",
+		"genre": ["Finance", "Business", "Economics", "Self Help"],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "High Performance Habits",
+		"subtitle": "How Extraordinary People Become That Way",
+		"author": "Brendon Burchard",
+		"goodreads": "https://www.goodreads.com/book/show/30227731",
+		"genre": ["Self Help", "Personal Development", "Productivity", "Psychology", "Leadership"],
+		"language": "English",
+		"rating": 9
+	},
+	{
+		"title": "Designing Machine Learning Systems",
+		"subtitle": "An Iterative Process for Production-Ready Applications",
+		"author": "Chip Huyen",
+		"goodreads": "https://www.goodreads.com/book/show/60715378",
+		"genre": ["Computer Science", "Software Engineer"],
+		"language": "English",
 		"rating": 7
 	},
 	{
-		"title": "Sample Book",
-		"author": "Sample Author",
+		"title": "Business Model You",
+		"subtitle": "A One-Page Method For Reinventing Your Career",
+		"author": ["Tim Clark", "Alexander Osterwalder", "Yves Pigneur"],
+		"goodreads": "https://www.goodreads.com/book/show/12285518",
+		"genre": ["Business", "Self Help", "Personal Development", "Entrepreneurship", "Management"],
+		"language": "English",
 		"rating": 7
 	},
 	{
-		"title": "Sample Book",
-		"author": "Sample Author",
+		"title": "The 4-Hour Workweek",
+		"subtitle": "Escape 9-5, Live Anywhere, and Join the New Rich",
+		"author": "Timothy Ferriss",
+		"goodreads": "https://www.goodreads.com/book/show/368593",
+		"genre": [
+			"Business",
+			"Self Help",
+			"Productivity",
+			"Personal Development",
+			"Finance",
+			"Entrepreneurship"
+		],
+		"language": "English",
+		"rating": 2
+	},
+	{
+		"title": "Tidy First?",
+		"subtitle": "A Personal Exercise in Empirical Software Design",
+		"author": "Kent Beck",
+		"goodreads": "https://www.goodreads.com/book/show/171691901",
+		"genre": ["Programming", "Computer Science", "Software Engineer"],
+		"language": "English",
+		"rating": 4
+	},
+	{
+		"title": "A Philosophy of Software Design",
+		"subtitle": "",
+		"author": "John Ousterhout",
+		"goodreads": "https://www.goodreads.com/book/show/39996759",
+		"genre": ["Technology", "Computer Science", "Software Engineer", "Programming"],
+		"language": "English",
 		"rating": 7
+	},
+	{
+		"title": "Engineers Survival Guide",
+		"subtitle": "Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft",
+		"author": "Merih Taze",
+		"goodreads": "https://www.goodreads.com/book/show/60455143",
+		"genre": ["Technology", "Self Help", "Software Engineer"],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "The Millionaire Fastlane",
+		"subtitle": "Crack the Code to Wealth and Live Rich for a Lifetime!",
+		"author": "M.J. DeMarco",
+		"goodreads": "https://www.goodreads.com/book/show/18872437",
+		"genre": ["Business", "Finance", "Self Help", "Personal Development", "Entrepreneurship"],
+		"language": "English",
+		"rating": 9
+	},
+	{
+		"title": "The Art and Business of Online Writing",
+		"subtitle": "How to Beat the Game of Capturing and Keeping Attention",
+		"author": "Nicolas Cole",
+		"goodreads": "https://www.goodreads.com/book/show/55189231",
+		"genre": ["Writing", "Business", "Self Help", "Entrepreneurship", "Personal Development"],
+		"language": "English",
+		"rating": 6
+	},
+	{
+		"title": "The Human Element",
+		"subtitle": "Overcoming the Resistance That Awaits New Ideas",
+		"author": ["David Schonthal", "Loran Nordgren"],
+		"goodreads": "https://www.goodreads.com/book/show/57182104",
+		"genre": ["Business", "Psychology", "Leadership"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Feel-Good Productivity",
+		"subtitle": "How to Do More of What Matters to You",
+		"author": "Ali Abdaal",
+		"goodreads": "https://www.goodreads.com/book/show/142402923",
+		"genre": ["Productivity", "Self Help", "Personal Development", "Business"],
+		"language": "English",
+		"rating": 3
+	},
+	{
+		"title": "The Psychology of Money",
+		"subtitle": "Timeless Lessons on Wealth, Greed, and Happiness",
+		"author": "Morgan Housel",
+		"goodreads": "https://www.goodreads.com/book/show/41881472",
+		"genre": ["Finance", "Psychology", "Self Help"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Just Keep Buying",
+		"subtitle": "Proven Ways to Save Money and Build Your Wealth",
+		"author": "Nick Maggiulli",
+		"goodreads": "https://www.goodreads.com/book/show/59046778",
+		"genre": ["Finance", "Business", "Self Help", "Economics"],
+		"language": "English",
+		"rating": 6
+	},
+	{
+		"title": "Level Up!",
+		"subtitle": "The Guide to Great Video Game Design",
+		"author": "Scott Rogers",
+		"goodreads": "https://www.goodreads.com/book/show/8449713",
+		"genre": ["Game Design", "Games", "Design"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Tax-Free Wealth",
+		"subtitle": "How to Build Massive Wealth by Permanently Lowering Your Taxes",
+		"author": "Tom Wheelwright",
+		"goodreads": "https://www.goodreads.com/book/show/13238716",
+		"genre": ["Finance", "Business", "Self Help"],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "The 3 Alarms",
+		"subtitle": "A Simple System to Transform Your Health, Wealth, and Relationships Forever",
+		"author": "Eric Partaker",
+		"goodreads": "https://www.goodreads.com/book/show/55537584",
+		"genre": ["Self Help", "Productivity", "Personal Development", "Health", "Relationships"],
+		"language": "English",
+		"rating": 6
+	},
+	{
+		"title": "Buy Back Your Time",
+		"subtitle": "Get Unstuck, Reclaim Your Freedom, and Build Your Empire",
+		"author": "Dan Martell",
+		"goodreads": "https://www.goodreads.com/book/show/60880804",
+		"genre": ["Business", "Productivity", "Self Help", "Entrepreneurship", "Personal Development"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "被討厭的勇氣",
+		"subtitle": "自我啟發之父「阿德勒」的教導",
+		"author": ["岸見一郎", "古賀史健"],
+		"goodreads": "https://www.goodreads.com/book/show/43306206",
+		"genre": ["Self Help", "Psychology", "Philosophy", "Personal Development"],
+		"language": "English",
+		"rating": 2
+	},
+	{
+		"title": "Everyday Business Storytelling",
+		"subtitle": "Create, Simplify, and Adapt a Visual Narrative for Any Audience",
+		"author": ["Janine Kurnoff", "Lee Lazarus"],
+		"goodreads": "https://www.goodreads.com/book/show/54979237",
+		"genre": ["Business", "Communication", "Productivity", "Writing"],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "The Culture Map",
+		"subtitle": "Breaking Through the Invisible Boundaries of Global Business",
+		"author": "Erin Meyer",
+		"goodreads": "https://www.goodreads.com/book/show/22085568",
+		"genre": ["Business", "Psychology", "Leadership", "Management", "Sociology"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Designing Your Life",
+		"subtitle": "Build a Life that Works for You",
+		"author": ["Bill Burnett", "Dave Evans"],
+		"goodreads": "https://www.goodreads.com/book/show/26046333",
+		"genre": ["Self Help", "Personal Development"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Steal Like an Artist",
+		"subtitle": "10 Things Nobody Told You About Being Creative",
+		"author": "Austin Kleon",
+		"goodreads": "https://www.goodreads.com/book/show/13099738",
+		"genre": ["Self Help", "Design", "Writing", "Business", "Personal Development"],
+		"language": "English",
+		"rating": 4
+	},
+	{
+		"title": "Show Your Work!",
+		"subtitle": "10 Ways to Share Your Creativity and Get Discovered",
+		"author": "Austin Kleon",
+		"goodreads": "https://www.goodreads.com/book/show/18290401",
+		"genre": ["Self Help", "Business", "Writing", "Personal Development", "Entrepreneurship"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Building a Second Brain",
+		"subtitle": "A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential",
+		"author": "Tiago Forte",
+		"goodreads": "https://www.goodreads.com/book/show/59616977",
+		"genre": ["Productivity", "Self Help", "Personal Development"],
+		"language": "English",
+		"rating": 4
+	},
+	{
+		"title": "How to Not Die Alone",
+		"subtitle": "The Surprising Science That Will Help You Find Love",
+		"author": "Logan Ury",
+		"goodreads": "https://www.goodreads.com/book/show/54304221",
+		"genre": ["Self Help", "Relationships", "Psychology", "Personal Development"],
+		"language": "English",
+		"rating": 2
+	},
+	{
+		"title": "The Alter Ego Effect",
+		"subtitle": "The Power of Secret Identities to Transform Your Life",
+		"author": "Todd Herman",
+		"goodreads": "https://www.goodreads.com/book/show/40139225",
+		"genre": ["Self Help", "Psychology", "Personal Development", "Productivity", "Business"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "How to Win Friends & Influence People",
+		"subtitle": "The Only Book You Need to Lead You to Success",
+		"author": "Dale Carnegie",
+		"goodreads": "https://www.goodreads.com/book/show/4865",
+		"genre": [
+			"Self Help",
+			"Psychology",
+			"Personal Development",
+			"Leadership",
+			"Communication",
+			"Relationships",
+			"Philosophy"
+		],
+		"language": "English",
+		"rating": 1
+	},
+	{
+		"title": "You Turn",
+		"subtitle": "Get Unstuck, Discover Your Direction, and Design Your Dream Career",
+		"author": "Ashley Stahl",
+		"goodreads": "https://www.goodreads.com/book/show/54567158",
+		"genre": ["Self Help", "Personal Development"],
+		"language": "English",
+		"rating": 4
+	},
+	{
+		"title": "Hidden Potential",
+		"subtitle": "The Science of Achieving Greater Things",
+		"author": "Adam M. Grant",
+		"goodreads": "https://www.goodreads.com/book/show/157095669",
+		"genre": ["Self Help", "Psychology", "Personal Development", "Education", "Productivity"],
+		"language": "English",
+		"rating": 9
+	},
+	{
+		"title": "The Art of Game Design",
+		"subtitle": "A Book of Lenses",
+		"author": "Jesse Schell",
+		"goodreads": "https://www.goodreads.com/book/show/3396933",
+		"genre": ["Game Design", "Games", "Design"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Designing Data-Intensive Applications",
+		"subtitle": "",
+		"author": "Martin Kleppmann",
+		"goodreads": "https://www.goodreads.com/book/show/23463279",
+		"genre": ["Computer Science", "Software Engineer"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "How to Take Smart Notes",
+		"subtitle": "One Simple Technique to Boost Writing, Learning, and Thinking",
+		"author": "Sönke Ahrens",
+		"goodreads": "https://www.goodreads.com/book/show/34507927",
+		"genre": ["Productivity", "Writing", "Self Help", "Personal Development", "Education"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Eat That Frog!",
+		"subtitle": "21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+		"author": "Brian Tracy",
+		"goodreads": "https://www.goodreads.com/book/show/95887",
+		"genre": [
+			"Self Help",
+			"Productivity",
+			"Business",
+			"Personal Development",
+			"Psychology",
+			"Management"
+		],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "Anxiety at Work",
+		"subtitle": "8 Strategies to Help Teams Build Resilience, Handle Uncertainty, and Get Stuff Done",
+		"author": ["Adrian Gostick", "Chester Elton"],
+		"goodreads": "https://www.goodreads.com/book/show/54798500",
+		"genre": ["Leadership", "Self Help", "Psychology", "Business", "Management"],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "Start with Why",
+		"subtitle": "How Great Leaders Inspire Everyone to Take Action",
+		"author": "Simon Sinek",
+		"goodreads": "https://www.goodreads.com/book/show/7108725",
+		"genre": [
+			"Business",
+			"Leadership",
+			"Self Help",
+			"Personal Development",
+			"Management",
+			"Psychology",
+			"Entrepreneurship"
+		],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Thinking, Fast and Slow",
+		"subtitle": "",
+		"author": "Daniel Kahneman",
+		"goodreads": "https://www.goodreads.com/book/show/11468377",
+		"genre": ["Psychology", "Self Help", "Business", "Economics", "Personal Development"],
+		"language": "English",
+		"rating": 9
+	},
+	{
+		"title": "Die with Zero",
+		"subtitle": "Getting All You Can from Your Money and Your Life",
+		"author": "Bill Perkins",
+		"goodreads": "https://www.goodreads.com/book/show/52950915",
+		"genre": ["Finance", "Self Help", "Personal Development", "Philosophy"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Graduate Admissions Essays",
+		"subtitle": "Write Your Way into the Graduate School of Your Choice",
+		"author": "Donald Asher",
+		"goodreads": "https://www.goodreads.com/book/show/107545",
+		"genre": ["Education", "Writing"],
+		"language": "English",
+		"rating": 6
+	},
+	{
+		"title": "Computer Systems",
+		"subtitle": "A Programmer's Perspective",
+		"author": ["Randal E. Bryant", "David Richard O'Hallaron"],
+		"goodreads": "https://www.goodreads.com/book/show/829182",
+		"genre": ["Computer Science"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Bad Blood",
+		"subtitle": "Secrets and Lies in a Silicon Valley Startup",
+		"author": "John Carreyrou",
+		"goodreads": "https://www.goodreads.com/book/show/37976541-bad-blood",
+		"genre": ["Business", "True Crime", "Biography", "Technology"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Principles",
+		"subtitle": "Life and Work",
+		"author": "Ray Dalio",
+		"goodreads": "https://www.goodreads.com/book/show/34536488",
+		"genre": [
+			"Business",
+			"Self Help",
+			"Leadership",
+			"Personal Development",
+			"Philosophy",
+			"Biography",
+			"Management"
+		],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "The Design of Everyday Things",
+		"subtitle": "",
+		"author": "Donald A. Norman",
+		"goodreads": "https://www.goodreads.com/book/show/840",
+		"genre": ["Design", "Business", "Psychology", "Usability"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Academic Writing for Graduate Students",
+		"subtitle": "Essential Tasks and Skills",
+		"author": ["John M. Swales", "Christine Feak"],
+		"goodreads": "https://www.goodreads.com/book/show/926722",
+		"genre": ["Writing", "Education", "Academic", "Research"],
+		"language": "English",
+		"rating": 5
+	},
+	{
+		"title": "Zero to One",
+		"subtitle": "Notes on Startups, or How to Build the Future",
+		"author": ["Peter Thiel", "Blake Masters"],
+		"goodreads": "https://www.goodreads.com/book/show/18050143",
+		"genre": ["Business", "Entrepreneurship", "Economics", "Management", "Leadership"],
+		"language": "English",
+		"rating": 6
+	},
+	{
+		"title": "Measure What Matters",
+		"subtitle": "OKRs: The Simple Idea that Drives 10x Growth",
+		"author": "John Doerr",
+		"goodreads": "https://www.goodreads.com/book/show/39286958",
+		"genre": ["Business", "Management", "Leadership", "Productivity", "Self Help"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "The Art of Computer Programming",
+		"subtitle": "",
+		"author": "Donald Ervin Knuth",
+		"goodreads": "https://www.goodreads.com/book/show/112247",
+		"genre": ["Computer Science", "Programming"],
+		"language": "English",
+		"rating": 2
+	},
+	{
+		"title": "設計模式與遊戲開發的完美結合",
+		"subtitle": "",
+		"author": "蔡昇達",
+		"goodreads": "https://www.goodreads.com/book/show/33622311",
+		"genre": ["Computer Science", "Software Engineer", "Programming", "Game Design"],
+		"language": "Traditional Chinese",
+		"rating": 4
+	},
+	{
+		"title": "Design Patterns Explained",
+		"subtitle": "A New Perspective on Object-Oriented Design",
+		"author": ["Alan Shalloway", "James Trott"],
+		"goodreads": "https://www.goodreads.com/book/show/85021",
+		"genre": ["Computer Science", "Software Engineer", "Programming"],
+		"language": "Traditional Chinese",
+		"rating": 5
+	},
+	{
+		"title": "Nine Algorithms That Changed the Future",
+		"subtitle": "The Ingenious Ideas That Drive Today's Computers",
+		"author": "John MacCormick",
+		"goodreads": "https://www.goodreads.com/book/show/12413727",
+		"genre": ["Computer Science", "Technology", "Algorithms"],
+		"language": "Traditional Chinese",
+		"rating": 4
+	},
+	{
+		"title": "Algorithms to Live By",
+		"subtitle": "The Computer Science of Human Decisions",
+		"author": ["Brian Christian", "Tom Griffiths"],
+		"goodreads": "https://www.goodreads.com/book/show/25666050",
+		"genre": ["Computer Science", "Algorithms", "Psychology", "Self Help"],
+		"language": "Traditional Chinese",
+		"rating": 5
+	},
+	{
+		"title": "The Phoenix Project",
+		"subtitle": "A Novel About IT, DevOps, and Helping Your Business Win",
+		"author": ["Gene Kim", "Kevin Behr", "George Spafford"],
+		"goodreads": "https://www.goodreads.com/book/show/17255186",
+		"genre": ["Business", "Management", "Computer Science", "Software Engineer", "Leadership"],
+		"language": "Traditional Chinese",
+		"rating": 7
+	},
+	{
+		"title": "Head First Design Patterns",
+		"subtitle": "",
+		"author": ["Eric Freeman", "Bert Bates", "Kathy Sierra", "Elisabeth Robson"],
+		"goodreads": "https://www.goodreads.com/book/show/58128",
+		"genre": ["Programming", "Software Engineer"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Introduction to the Theory of Computation",
+		"subtitle": "",
+		"author": "Michael Sipser",
+		"goodreads": "https://www.goodreads.com/book/show/400716",
+		"genre": ["Computer Science"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Save the Cat",
+		"subtitle": "The Last Book on Screenwriting You'll Ever Need",
+		"author": "Blake Snyder",
+		"goodreads": "https://www.goodreads.com/book/show/49464",
+		"genre": ["Writing", "Storytelling", "Film"],
+		"language": "English",
+		"rating": 8
+	},
+	{
+		"title": "Thank You for Arguing",
+		"subtitle": "What Aristotle, Lincoln, and Homer Simpson Can Teach Us About the Art of Persuasion",
+		"author": "Jay Heinrichs",
+		"goodreads": "https://www.goodreads.com/book/show/151751",
+		"genre": ["Communication", "Self Help", "Psychology", "Philosophy"],
+		"language": "English",
+		"rating": 1
+	},
+	{
+		"title": "研究生完全求生手冊",
+		"subtitle": "方法、秘訣、潛規則",
+		"author": "彭明輝",
+		"goodreads": "https://www.goodreads.com/book/show/39168745",
+		"genre": ["Education", "Academic", "Research"],
+		"language": "Traditional Chinese",
+		"rating": 5
+	},
+	{
+		"title": "教學的技術",
+		"subtitle": "",
+		"author": "王永福",
+		"goodreads": "https://www.goodreads.com/book/show/58874701",
+		"genre": ["Education", "Business"],
+		"language": "Traditional Chinese",
+		"rating": 6
+	},
+	{
+		"title": "10倍速！寫出最強文字",
+		"subtitle": "簡報、企劃、e-mail、部落格、履歷，超速完稿不用改！",
+		"author": "上阪徹",
+		"goodreads": "https://www.goodreads.com/book/show/52788447-10-e-mail",
+		"genre": ["Writing", "Business"],
+		"language": "Traditional Chinese",
+		"rating": 4
+	},
+	{
+		"title": "玩心設計",
+		"subtitle": "改變千萬人的美好體驗，工作和生活的設計都該如此有趣！",
+		"author": "陳威帆",
+		"goodreads": "https://www.goodreads.com/book/show/52193858",
+		"genre": ["Design", "Business", "Games", "Usability"],
+		"language": "Traditional Chinese",
+		"rating": 4
+	},
+	{
+		"title": "最高學以致用法",
+		"subtitle": "讓學習發揮最大成果的輸出大全",
+		"author": "樺沢紫苑",
+		"goodreads": "https://www.goodreads.com/book/show/54797067",
+		"genre": ["Self Help", "Productivity", "Personal Development"],
+		"language": "Traditional Chinese",
+		"rating": 6
+	},
+	{
+		"title": "The Four",
+		"subtitle": "The Hidden DNA of Amazon, Apple, Facebook, and Google",
+		"author": "Scott Galloway",
+		"goodreads": "https://www.goodreads.com/book/show/34427200",
+		"genre": ["Business", "Technology", "Economics", "Entrepreneurship"],
+		"language": "English",
+		"rating": 1
+	},
+	{
+		"title": "Ultralearning",
+		"subtitle": "Master Hard Skills, Outsmart the Competition, and Accelerate Your Career",
+		"author": "Scott H. Young",
+		"goodreads": "https://www.goodreads.com/book/show/44770129",
+		"genre": ["Self Help", "Productivity", "Personal Development", "Education"],
+		"language": "English",
+		"rating": 7
+	},
+	{
+		"title": "Atomic Habits",
+		"subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+		"author": "James Clear",
+		"goodreads": "https://www.goodreads.com/book/show/40121378",
+		"genre": ["Self Help", "Psychology", "Personal Development", "Productivity"],
+		"language": "English",
+		"rating": 10
+	},
+	{
+		"title": "The Productivity Project",
+		"subtitle": "Accomplishing More by Managing Your Time, Attention, and Energy",
+		"author": "Chris Bailey",
+		"goodreads": "https://www.goodreads.com/book/show/25733994",
+		"genre": ["Productivity", "Self Help", "Personal Development"],
+		"language": "Traditional Chinese",
+		"rating": 4
+	},
+	{
+		"title": "Win Bigly",
+		"subtitle": "Persuasion in a World Where Facts Don't Matter",
+		"author": "Scott Adams",
+		"goodreads": "https://www.goodreads.com/book/show/34427205",
+		"genre": ["Politics", "Psychology", "Business"],
+		"language": "Traditional Chinese",
+		"rating": 2
 	}
 ]
