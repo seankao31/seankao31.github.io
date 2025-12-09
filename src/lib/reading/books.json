@@ -250,6 +250,15 @@
 		"rating": 4
 	},
 	{
+		"title": "Mindset",
+		"subtitle": "The New Psychology of Success",
+		"author": "Carol S. Dweck",
+		"goodreads": "https://www.goodreads.com/book/show/40745",
+		"genre": ["Psychology", "Self Help", "Personal Development", "Education"],
+		"language": "English",
+		"rating": 8
+	},
+	{
 		"title": "How to Not Die Alone",
 		"subtitle": "The Surprising Science That Will Help You Find Love",
 		"author": "Logan Ury",
