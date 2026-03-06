@@ -7,25 +7,17 @@
 
 (This is a [now page](https://nownownow.com/), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-_Updated: 2025-12-09 in Taipei, Taiwan_
+_Updated: 2026-03-06 in Taipei, Taiwan_
 
 ---
 
-###### Building [this very website](https://www.yhkao.com)
+###### FFXIV Coding Projects
 
-I said “building,” but I’ve accepted that I probably won’t settle on a design anytime soon. For now, I’m focusing on the content, because that’s what really matters.
-
-###### Final Fantasy XIV
-
-So it's finally here... Traditional Chinese release after a decade. I decided to hop on the train and I've been enjoying it a lot. What can I say?
-
-###### Game dev (hiatus)
-
-I’m making a game. Not _my_ game, just _a_ game. It’s heavily inspired by _Slay the Spire_ — I’m essentially replicating its design to get hands-on experience with the Godot engine. Along the way, I’m experimenting with writing dev logs and might even turn it into one of those _“I remade \*insert famous game title\* from scratch”_ YouTube videos.
+Working on various projects for the FFXIV game. One is to assist in item crafting and profit making. Another is an AI and game analysis tool for Triple Triad. And some other random stuff.
 
 ###### Learning Japanese
 
-I'm working toward JLPT N4 now, and soon N3. I watch and read a lot of Japanese content, and much of what I’m into is only really available in Japanese. So I’m learning it mainly to understand what I enjoy — not so much to speak or write it.
+Working toward JLPT N4 now, and soon N3. I watch and read a lot of Japanese content, and much of what I’m into is only really available in Japanese. So I’m learning it mainly to understand what I enjoy — not so much to speak or write it.
 
 ###### Reading
 
@@ -40,6 +32,7 @@ _Fiction_
 
 On a quest to read every single Brandon Sanderson's book.
 
+- [_凡人修仙傳_ by 忘語](https://www.goodreads.com/book/show/54444860?from_search=true&from_srp=true&qid=oSuJ5quIT2&rank=2)
 - (Reread) [_全知讀者視角_ by singNsong, 싱숑](https://www.goodreads.com/book/show/58691382-01?from_search=true&from_srp=true&qid=xxmsCzjgfw&rank=1)
 - (Reread) [_Elantris_ by Brandon Sanderson](https://www.goodreads.com/book/show/68427.Elantris?from_search=true&from_srp=true&qid=AD7EH85czB&rank=1)
 
@@ -47,12 +40,13 @@ On a quest to read every single Brandon Sanderson's book.
 
 Recently practicing _Jane Doe_, the ending theme from the latest _Chainsaw Man_ movie, using [HalcyonMusic's arrangement](https://www.youtube.com/watch?v=dZ89KtMDjEo&list=RDdZ89KtMDjEo&start_radio=1).
 
+###### Gaming: Final Fantasy XIV
+
+Just finished the 5.0 MSQ Shadowbringers. Excellent writing. Planning to push to MSQ 7.0 asap and explore high difficulty content.
+
 ###### Indie Gaming
 
 Trying out a bunch of random indie titles.
 
-- [Megabonk](https://store.steampowered.com/app/3405340/Megabonk/)
-- [活俠傳](https://store.steampowered.com/app/1859910/Legend_of_Mortal/)
-- [Shape of Dreams](https://store.steampowered.com/app/2444750/Shape_of_Dreams/)
-- [Rain World](https://store.steampowered.com/app/312520/Rain_World/)
-- [ANIMAL WELL](https://store.steampowered.com/app/813230/ANIMAL_WELL/)
+- [炎姬](https://store.steampowered.com/app/1820000/Homura_Hime/)
+- [Slay the Spire 2](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/)
