@@ -7,7 +7,7 @@
 </svelte:head>
 
 <article>
-	<p>Home page is still under construction...</p>
+	<p>🚧 Under construction... 🚧</p>
 	<p>How about checking out:</p>
 	<ul>
 		<li><a href="/about">About</a></li>
