@@ -1,0 +1,1 @@
+var e=`Yshan's dev corner`,t=`yhkao.com`,n=`Yshan`,r=[{title:`Articles`,route:`/articles`},{title:`Now`,route:`/now`},{title:`Reading`,route:`/reading`},{title:`About`,route:`/about`}];export{t as i,n,e as r,r as t};
